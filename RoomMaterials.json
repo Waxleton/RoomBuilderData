@@ -6,7 +6,7 @@
     "NorthSouthID": 200,
     "EastWestID": 201,
     "CornerID": 199,
-    "Hue": 1152
+    "Hue": 0
   },
   {
     "Name": "Wood",
@@ -16,5 +16,14 @@
     "EastWestID": 8,
     "CornerID": 6,
     "Hue": 0
+  },
+    {
+    "Name": "Ice",
+    "FloorID": 1316,
+    "PostID": 204,
+    "NorthSouthID": 200,
+    "EastWestID": 201,
+    "CornerID": 199,
+    "Hue": 1152
   }
 ]
