@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Stone",
+    "FloorID": 1316,
+    "PostID": 204,
+    "NorthSouthID": 200,
+    "EastWestID": 201,
+    "CornerID": 199,
+    "Hue": 0
+  },
+  {
+    "Name": "Wood",
+    "FloorID": 1207,
+    "PostID": 9,
+    "NorthSouthID": 7,
+    "EastWestID": 8,
+    "CornerID": 6,
+    "Hue": 0
+  }
+]
