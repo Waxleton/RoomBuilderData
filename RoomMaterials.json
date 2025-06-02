@@ -8,6 +8,15 @@
     "CornerID": 199,
     "Hue": 0
   },
+    {
+    "Name": "Dark Stone",
+    "FloorID": 1316,
+    "PostID": 204,
+    "NorthSouthID": 200,
+    "EastWestID": 201,
+    "CornerID": 199,
+    "Hue": 1175
+  },
   {
     "Name": "Wood",
     "FloorID": 1207,
