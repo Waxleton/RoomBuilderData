@@ -27,6 +27,15 @@
     "Hue": 0
   },
     {
+    "Name": "Dark Wood",
+    "FloorID": 1207,
+    "PostID": 9,
+    "NorthSouthID": 7,
+    "EastWestID": 8,
+    "CornerID": 6,
+    "Hue": 1175
+  },
+    {
     "Name": "Ice",
     "FloorID": 1316,
     "PostID": 204,
